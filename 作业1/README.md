@@ -1,0 +1,2 @@
+# OpenMMLab AI实战训练营第一次作业
+使用mmclassification和规定的数据集微调模型
