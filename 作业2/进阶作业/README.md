@@ -4,4 +4,4 @@
 
 # 数据集
 
-PASCAL VOC2012：https://opendatalab.org.cn/PASCAL_VOC2012
+PASCAL VOC2007：http://host.robots.ox.ac.uk/pascal/VOC/voc2007/index.html
