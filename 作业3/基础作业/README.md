@@ -8,4 +8,4 @@
 
 # 结果可视化
 
-![image](https://github.com/yayoyo66/OpenMMLabCampHomework/blob/main/%E4%BD%9C%E4%B8%9A3/%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/mydataset_result.jpeg)
+![image](https://github.com/yayoyo66/OpenMMLabCampHomework/blob/main/%E4%BD%9C%E4%B8%9A3/%E5%9F%BA%E7%A1%80%E4%BD%9C%E4%B8%9A/mydataset_result.jpeg?raw=true)
